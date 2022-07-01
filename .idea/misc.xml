@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/select_dialog_item.xml" value="0.14336372847011145" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/ic_muski_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fragment_one.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_intentactivity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.3382415771484375" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.24817726475417995" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.14336372847011145" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.13652482269503546" />
+        <entry key="app/src/main/res/layout/activity_main_fragment.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/constraint_layout.xml" value="0.13652482269503546" />
+        <entry key="app/src/main/res/layout/constraint_layout5.xml" value="0.13652482269503546" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.12604166666666666" />
+        <entry key="app/src/main/res/layout/fragment_two.xml" value="0.16458333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
